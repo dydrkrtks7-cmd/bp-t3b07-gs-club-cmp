@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gongdeok-room-note.maphoshirts.space/sitemap.xml
